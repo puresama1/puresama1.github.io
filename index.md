@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+##何一峰(2003060011)
+QQ：1157548213 VX：hyf1157548213
+##个人简介
+姓名：何一峰
 
-You can use the [editor on GitHub](https://github.com/puresama1/puresama1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+性别：男
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+籍贯：四川成都
 
-### Markdown
+学校：湖南工商大学
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+就读专业：金融数学
 
-```markdown
-Syntax highlighted code block
+政治面貌：共青团团员
 
-# Header 1
-## Header 2
-### Header 3
+电子邮件：1157548213@qq.com
 
-- Bulleted
-- List
+###兴趣爱好
+学习，篮球，吃饭，医院
 
-1. Numbered
-2. List
+###教育水平
+湖南工商大学大二高材生
 
-**Bold** and _Italic_ and `Code` text
+###主修课程
+常微分方程、概率论与数理统计、高等数学、西方经济学
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/puresama1/puresama1.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###自我评价
+性格稳重，冷静沉着，做事认真谨慎，待人友好，为人诚实；敢于面对和克服困难，工作认真负责，积极上进，能够吃苦耐劳；有责任心，适应能力强。
